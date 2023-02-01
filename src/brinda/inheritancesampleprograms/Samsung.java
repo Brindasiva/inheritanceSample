@@ -1,6 +1,6 @@
 package brinda.inheritancesampleprograms;
 
-public class samsung extends android {
+public class Samsung extends Android {
 
 	int serial_num;
 	String model;

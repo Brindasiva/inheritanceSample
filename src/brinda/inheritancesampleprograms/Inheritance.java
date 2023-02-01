@@ -1,10 +1,10 @@
 package brinda.inheritancesampleprograms;
 
-public class inheritance {
+public class Inheritance {
 	
 	public static void main(String[] args) {
 
-		samsung s = new samsung();
+		Samsung s = new Samsung();
 		Nokia n = new Nokia();
 		Redmi r = new Redmi();
 		

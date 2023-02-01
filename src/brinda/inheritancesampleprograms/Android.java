@@ -1,6 +1,6 @@
 package brinda.inheritancesampleprograms;
 
-public class android {
+public class Android {
 	String colour;
 	int cost;
 	String RAM;
